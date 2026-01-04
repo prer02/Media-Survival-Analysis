@@ -1,4 +1,4 @@
-# Bharat-Herald---Media-Survival-Analysis-RPC17
+# Bharat-Herald---Media-Survival-Analysis-
 It explores the decline of Bharat Herald, a 70+ year-old Indian newspaper, and provides data-driven insights and recommendations for its digital transition.  
 ---
 
